@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hi, I’m Abdullah Shaikh
 
-<!--
-**Abdullah-dev123/Abdullah-dev123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently learning Web Development and Cybersecurity, with a strong interest in offensive security and red teaming. I enjoy building web applications and exploring how to find and fix security vulnerabilities.
 
-Here are some ideas to get you started:
+💻 Skills I'm learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend and Backend Web Development
+Ethical Hacking and Security Testing
+💼 I’m open to collaborating on:
+
+Web development projects
+Cybersecurity and ethical hacking tasks
+Beginner-friendly tech projects
+📫 You can reach me at: abdullahahmed2975@gmail.com
+
+⚡ Fun fact: I got interested in ethical hacking by watching MMA—now I like both real-world and digital takedowns!
+
