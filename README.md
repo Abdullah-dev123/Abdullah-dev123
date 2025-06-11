@@ -5,7 +5,9 @@ I’m currently learning Web Development and Cybersecurity, with a strong intere
 💻 Skills I'm learning:
 
 Frontend and Backend Web Development
+
 Ethical Hacking and Security Testing
+
 💼 I’m open to collaborating on:
 
 Web development projects
