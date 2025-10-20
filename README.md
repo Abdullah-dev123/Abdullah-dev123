@@ -13,7 +13,7 @@ Ethical Hacking and Security Testing
 Web development projects
 Cybersecurity and ethical hacking tasks
 Beginner-friendly tech projects
-📫 You can reach me at: abdullahahmed2975@gmail.com
+📫 You can reach me at: abdullah.cybersec001@gmail.com
 
 ⚡ Fun fact: I got interested in ethical hacking by watching MMA—now I like both real-world and digital takedowns!
 
